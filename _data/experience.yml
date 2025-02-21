@@ -1,24 +1,13 @@
 main:
 
   - type: education
-    degreepath: PhD in Media Arts and Sciences # for type.education.
-    institution: Indiana University
-    department: The Media School
-    advisors: Stephanie DeBoer and Friends # for type.education.
-    thesis: "Tuberculosis Specimen" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
+    degreepath: Ph.D Media Arts and Sciences # for type.education.
+    institution: University University
+    department: Media School
+    advisors: Dr.Esi Thompson, Dr. Lesa Major, Dr. Melanie Sarge # for type.education.
+    thesis: "Examining Persuasion Models for Promoting Human Milk Banking Adoption Among Healthcare Professionals in Ghana: An Experimental Study" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2023 - Present
     notes: In Progress
-
-  - type: education
-    degreepath: MFA in Film and Television Production # for type.education.
-    institution: Loyola Marymount University
-    thesis: "The Vivisected Earth" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2013 - 2016
-
-  - type: education
-    degreepath: BA in English Literature # for type.education.
-    institution: University of Colorado Colorado Springs
-    years: 2009 - 2013
     
   - type: job
     title: Example Job # for type.employment.
